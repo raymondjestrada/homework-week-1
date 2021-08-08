@@ -2,7 +2,7 @@
 
 When completeing this webpage assignment, the following acceptance criteria was the goal:
 
-GIVEN a webpage meets accessibility standards
+Given a webpage meets accessibility standards
 
 When the source code is viewed, 
 Semantic HTML elements are found.
